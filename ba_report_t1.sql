@@ -1,4 +1,4 @@
--- FUNCTION: public.sp_get_ba_t1(integer, date, date, text, text, integer)
+
 -- DROP FUNCTION public.sp_get_ba_t1(integer, date, date, text, text, integer);
 CREATE
 OR REPLACE FUNCTION public.sp_get_ba_t1(
